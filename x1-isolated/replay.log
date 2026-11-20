@@ -1,0 +1,39 @@
+negative level 13 genus 2 counts [ 1, 5, 13 ] total 19
+negative level 16 genus 2 counts [ 1, 5, 14 ] total 20
+negative level 18 genus 2 counts [ 1, 5, 15 ] total 21
+negative level 20 genus 3 counts [ 1, 5, 18, 36 ] total 60
+13 19
+16 20
+18 21
+20 60
+good prime 101 reduced dimension 1
+level 17 degree 5 l(P) 1 marked order 17
+good prime 101 reduced dimension 1
+level 19 degree 7 l(P) 1 marked order 19
+good prime 101 reduced dimension 1
+level 22 degree 5 l(P) 1 marked order 22
+good prime 101 reduced dimension 1
+level 23 degree 10 l(P) 1 marked order 23
+good prime 101 reduced dimension 1
+level 24 degree 5 l(P) 1 marked order 24
+good prime 101 reduced dimension 1
+level 25 degree 6 l(P) 1 marked order 25
+good prime 101 reduced dimension 1
+level 26 degree 6 l(P) 1 marked order 26
+good prime 101 reduced dimension 1
+level 27 degree 6 l(P) 1 marked order 27
+good prime 101 reduced dimension 1
+level 32 degree 9 l(P) 1 marked order 32
+prime 2153 factor degrees with multiplicity [(1, 1), (3, 1), (3, 1), (17, 1), (19, 1), (42, 1), (58, 1)]
+prime 2161 factor degrees with multiplicity [(2, 1), (5, 1), (7, 1), (15, 1), (17, 1), (97, 1)]
+prime 2179 factor degrees with multiplicity [(1, 1), (1, 1), (2, 1), (2, 1), (5, 1), (27, 1), (105, 1)]
+prime 2203 factor degrees with multiplicity [(6, 1), (7, 1), (17, 1), (113, 1)]
+prime 2213 factor degrees with multiplicity [(2, 1), (21, 1), (34, 1), (35, 1), (51, 1)]
+The residual divisor is one closed point of degree 143.
+character order 1 dimension 11 winding rank 10
+character order 5 dimension 10 winding rank 10
+character order 13 dimension 10 winding rank 10
+character order 65 dimension 10 winding rank 10
+The elliptic quotient at level 131 has rank one.
+pole degree 231 contacts {1: 19, 16: 39, 31: 29, 46: 1} effective degree 357 rank 356
+All isolation certificates passed.

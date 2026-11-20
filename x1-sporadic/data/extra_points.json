@@ -1,0 +1,38 @@
+{
+  "87": [
+    45,
+    "explicit Tate model, certificates/verify87.m"
+  ],
+  "81": [
+    48,
+    "explicit Tate model, certificates/verify81.m"
+  ],
+  "95": [
+    54,
+    "explicit Tate model, certificates/verify95.m"
+  ],
+  "107": [
+    93,
+    "Siegel-unit fiber, certificates/siegel_prime.py"
+  ],
+  "83": [
+    57,
+    "degree-57 closed point, certificates/siegel_residue83.py"
+  ],
+  "99": [
+    54,
+    "exact Siegel-unit fibre, certificates/siegel_contacts.py"
+  ],
+  "138": [
+    82,
+    "degree-82 closed point, certificates/fibre138.py"
+  ],
+  "123": [
+    48,
+    "degree-48 closed point, certificates/siegel_quotient123.py"
+  ],
+  "180": [
+    117,
+    "degree-117 closed point above 1.60.13.a, certificates/point180.m"
+  ]
+}

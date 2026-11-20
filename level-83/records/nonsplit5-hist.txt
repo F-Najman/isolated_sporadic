@@ -1,0 +1,2 @@
+lookups 6700410472 matches_mod_p 342992 exact_cusp_relations 1 identically_zero 0 nonconstant_or_all_cusps 1
+89 1

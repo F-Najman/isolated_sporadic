@@ -1,0 +1,721 @@
+n,status,reason,CM_status_CGPS,least_CM_degree,noncuspidal_degree_upper,point_source,gonality_lower,density_lower,density_source
+1,no,small-degree torsion classifications and gonality,no,1,1,CGPS minimum CM degree,1,1,gonality or Frey bound
+2,no,small-degree torsion classifications and gonality,no,1,1,CGPS minimum CM degree,1,1,gonality or Frey bound
+3,no,small-degree torsion classifications and gonality,no,1,1,CGPS minimum CM degree,1,1,gonality or Frey bound
+4,no,small-degree torsion classifications and gonality,no,1,1,CGPS minimum CM degree,1,1,gonality or Frey bound
+5,no,small-degree torsion classifications and gonality,no,2,2,CGPS minimum CM degree,1,1,rank zero and gonality
+6,no,small-degree torsion classifications and gonality,no,1,1,CGPS minimum CM degree,1,1,rank zero and gonality
+7,no,small-degree torsion classifications and gonality,no,2,2,CGPS minimum CM degree,1,1,rank zero and gonality
+8,no,small-degree torsion classifications and gonality,no,4,4,CGPS minimum CM degree,1,1,rank zero and gonality
+9,no,small-degree torsion classifications and gonality,no,3,3,CGPS minimum CM degree,1,1,rank zero and gonality
+10,no,small-degree torsion classifications and gonality,no,2,2,CGPS minimum CM degree,1,1,rank zero and gonality
+11,no,small-degree torsion classifications and gonality,no,5,5,CGPS minimum CM degree,2,2,rank zero and gonality
+12,no,small-degree torsion classifications and gonality,no,4,4,CGPS minimum CM degree,1,1,rank zero and gonality
+13,no,small-degree torsion classifications and gonality,no,4,4,CGPS minimum CM degree,2,2,rank zero and gonality
+14,no,small-degree torsion classifications and gonality,no,3,3,CGPS minimum CM degree,2,2,rank zero and gonality
+15,no,small-degree torsion classifications and gonality,no,8,5,census 1.30.5.a (level 30 to 15 to 15),2,2,rank zero and gonality
+16,no,small-degree torsion classifications and gonality,no,8,8,CGPS minimum CM degree,2,2,rank zero and gonality
+17,no,small-degree torsion classifications and gonality,no,8,8,CGPS minimum CM degree,4,4,rank zero and gonality
+18,no,small-degree torsion classifications and gonality,no,6,5,census 2.18.5.a,2,2,rank zero and gonality
+19,no,small-degree torsion classifications and gonality,no,6,6,CGPS minimum CM degree,5,5,rank zero and gonality
+20,no,small-degree torsion classifications and gonality,no,8,8,CGPS minimum CM degree,3,3,rank zero and gonality
+21,yes,point below density bound,no,4,3,census 1.21.3.a,4,4,rank zero and gonality
+22,no,small-degree torsion classifications and gonality,no,10,10,CGPS minimum CM degree,4,4,rank zero and gonality
+23,no,small-degree torsion classifications and gonality,no,22,14,census 1.46.14.a (level 46 to 23 to 23),7,7,rank zero and gonality
+24,no,small-degree torsion classifications and gonality,no,16,6,census 2.24.6.a,4,4,rank zero and gonality
+25,no,small-degree torsion classifications and gonality,no,10,6,census 1.25.6.a,5,5,rank zero and gonality
+26,no,small-degree torsion classifications and gonality,no,6,6,CGPS minimum CM degree,6,6,rank zero and gonality
+27,no,small-degree torsion classifications and gonality,no,9,9,CGPS minimum CM degree,6,6,rank zero and gonality
+28,yes,point below density bound,no,12,5,census 1.28.5.a,6,6,rank zero and gonality
+29,yes,point below density bound,no,14,9,census 1.29.9.a,11,11,rank zero and gonality
+30,yes,point below density bound,no,8,5,census 1.30.5.a,6,6,rank zero and gonality
+31,yes,point below density bound,yes,10,9,census 1.31.9.a,12,12,rank zero and gonality
+32,no,small-degree torsion classifications and gonality,no,16,9,census 1.32.9.a,8,8,rank zero and gonality
+33,yes,point below density bound,no,20,7,census 1.33.7.a,10,10,rank zero and gonality
+34,yes,point below density bound,yes,8,8,CGPS minimum CM degree,10,10,rank zero and gonality
+35,yes,point below density bound,no,24,8,census 1.35.8.a,12,12,rank zero and gonality
+36,yes,point below density bound,no,24,7,census 1.36.7.a,8,8,rank zero and gonality
+37,yes,point below density bound,undecided,12,6,census 1.37.6.a,18,9,Frey and gonality
+38,yes,point below density bound,no,18,10,census 1.38.10.a,12,12,rank zero and gonality
+39,yes,point below density bound,yes,8,8,CGPS minimum CM degree,14,14,rank zero and gonality
+40,yes,point below density bound,no,16,8,census 1.40.8.a,12,12,rank zero and gonality
+41,yes,point below density bound,undecided,20,14,census 1.41.14.a,22,22,rank zero and gonality
+42,yes,point below density bound,no,12,8,census 1.42.8.a,12,12,rank zero and gonality
+43,yes,point below density bound,undecided,14,12,van Hoeij level 43 degree 12,24,16,"newform comparison (limiting form 43.2.a.a, p=2)"
+44,yes,point below density bound,no,20,11,census 1.44.11.a,15,15,rank zero and gonality
+45,yes,point below density bound,no,24,10,census 1.45.10.a,18,18,rank zero and gonality
+46,yes,point below density bound,no,22,14,census 1.46.14.a,19,19,rank zero and gonality
+47,yes,point below density bound,no,46,20,census 1.47.20.a,29,29,rank zero and gonality
+48,yes,point below density bound,no,32,11,census 1.48.11.a,16,16,rank zero and gonality
+49,yes,point below density bound,undecided,14,14,CGPS minimum CM degree,21,21,rank zero and gonality
+50,yes,point below density bound,undecided,10,10,CGPS minimum CM degree,15,15,rank zero and gonality
+51,yes,point below density bound,no,32,15,census 1.51.15.a,20,20,rank zero and gonality
+52,yes,point below density bound,no,24,16,census 1.52.16.a,17,17,rank zero and gonality
+53,yes,point below density bound,undecided,26,22,van Hoeij level 53 degree 22,24,24,"newform comparison (limiting form 53.2.a.a, p=3)"
+54,yes,cuspidal fibers and modular units,no,18,13,census 1.54.13.a,13,13,rank zero and gonality
+55,yes,point below density bound,no,40,18,census 1.55.18.a,24,24,rank zero and gonality
+56,yes,point below density bound,no,24,18,census 1.56.18.a,20,20,rank zero and gonality
+57,yes,point below density bound,undecided,12,12,CGPS minimum CM degree,24,14,supersingular incidence at p=5
+58,yes,point below density bound,undecided,14,12,van Hoeij level 58 degree 12,21,21,"newform comparison (limiting form 58.2.a.a, p=3)"
+59,yes,cuspidal fibers and modular units,no,58,31,census 1.59.31.a,29,29,rank zero and gonality
+60,yes,cuspidal fibers and modular units,no,32,13,census 1.60.13.a,12,12,rank zero and gonality
+61,yes,point below density bound,undecided,20,20,CGPS minimum CM degree,31,27,integral or equality refinement on newform factors
+62,yes,point below density bound,undecided,30,22,census 1.62.22.a,24,24,rank zero and gonality
+63,yes,point below density bound,no,36,18,van Hoeij level 63 degree 18,29,27,"newform comparison (limiting form 63.2.s.a, p=2)"
+64,yes,point below density bound,no,32,24,census 1.64.24.a,26,26,rank zero and gonality
+65,yes,point below density bound,undecided,24,20,van Hoeij level 65 degree 20,34,29,integral or equality refinement on newform factors
+66,yes,point below density bound,undecided,20,16,census 1.66.16.a,19,19,rank zero and gonality
+67,yes,point below density bound,undecided,22,22,CGPS minimum CM degree,38,38,"newform comparison (limiting form 67.2.a.b, p=3)"
+68,yes,point below density bound,undecided,32,26,van Hoeij level 68 degree 26,29,29,rank zero and gonality
+69,yes,point below density bound,no,44,28,van Hoeij level 69 degree 28,36,36,rank zero and gonality
+70,yes,point below density bound,no,48,20,van Hoeij level 70 degree 20,29,29,rank zero and gonality
+71,yes,cuspidal fibers and modular units,no,70,44,van Hoeij level 71 degree 44,42,42,rank zero and gonality
+72,yes,point below density bound,no,48,22,van Hoeij level 72 degree 22,23,23,rank zero and gonality
+73,yes,point below density bound,undecided,24,24,CGPS minimum CM degree,45,28,supersingular incidence at p=3
+74,yes,point below density bound,undecided,18,18,CGPS minimum CM degree,35,22,supersingular incidence at p=3
+75,yes,point below density bound,no,40,25,van Hoeij level 75 degree 25,40,40,rank zero and gonality
+76,yes,point below density bound,undecided,36,30,van Hoeij level 76 degree 30,36,36,rank zero and gonality
+77,yes,point below density bound,no,60,40,van Hoeij level 77 degree 40,48,48,"newform comparison (limiting form 77.2.a.a, p=3)"
+78,yes,point below density bound,undecided,24,24,CGPS minimum CM degree,26,26,rank zero and gonality
+79,yes,point below density bound,undecided,26,26,CGPS minimum CM degree,52,33,supersingular incidence at p=3
+80,yes,point below density bound,no,64,20,van Hoeij level 80 degree 20,39,24,supersingular incidence at p=3
+81,yes,point below density bound,no,54,48,"explicit Tate model, certificates/verify81.m",49,49,rank zero and gonality
+82,yes,point below density bound,undecided,20,20,CGPS minimum CM degree,42,27,supersingular incidence at p=3
+83,unresolved,,undecided,82,57,"degree-57 closed point, certificates/siegel_residue83.py",58,52,supersingular points on an etale double cover at 2
+84,yes,point below density bound,undecided,24,24,CGPS minimum CM degree,30,30,rank zero and gonality
+85,yes,point below density bound,undecided,32,32,CGPS minimum CM degree,58,36,supersingular incidence at p=3
+86,yes,point below density bound,undecided,42,36,van Hoeij level 43 degree 12 (level 43 to 43 to 86),47,42,integral or equality refinement on newform factors
+87,yes,point below density bound,no,112,45,"explicit Tate model, certificates/verify87.m",56,56,rank zero and gonality
+88,yes,point below density bound,undecided,40,40,CGPS minimum CM degree,48,48,"newform comparison (limiting form 88.2.a.a, p=3)"
+89,yes,point below density bound,undecided,44,44,CGPS minimum CM degree,66,52,integral or equality refinement on newform factors
+90,yes,cuspidal fibers and modular units,no,48,30,census 1.45.10.a (level 45 to 45 to 90),26,26,rank zero and gonality
+91,yes,point below density bound,undecided,24,24,CGPS minimum CM degree,68,42,supersingular incidence at p=3
+92,yes,point below density bound,undecided,44,44,CGPS minimum CM degree,53,53,"newform comparison (limiting form 92.2.a.a, p=3)"
+93,yes,point below density bound,undecided,20,20,CGPS minimum CM degree,64,36,supersingular incidence at p=5
+94,yes,cuspidal fibers and modular units,no,92,60,census 1.47.20.a (level 47 to 47 to 94),56,56,rank zero and gonality
+95,yes,point below density bound,undecided,72,54,"explicit Tate model, certificates/verify95.m",72,72,"newform comparison (limiting form 95.2.l.a, p=3)"
+96,yes,cuspidal fibers and modular units,no,64,44,census 1.48.11.a (level 48 to 48 to 96),40,40,rank zero and gonality
+97,yes,point below density bound,undecided,32,32,CGPS minimum CM degree,79,49,supersingular incidence at p=3
+98,yes,point below density bound,undecided,42,42,CGPS minimum CM degree,59,59,rank zero and gonality
+99,yes,point below density bound,undecided,60,54,"exact Siegel-unit fibre, certificates/siegel_contacts.py",72,60,integral or equality refinement on newform factors
+100,yes,point below density bound,undecided,40,40,CGPS minimum CM degree,60,60,rank zero and gonality
+101,yes,point below density bound,undecided,50,50,CGPS minimum CM degree,85,75,integral or equality refinement on newform factors
+102,yes,point below density bound,undecided,32,32,CGPS minimum CM degree,45,45,"newform comparison (limiting form 102.2.a.a, p=5)"
+103,yes,point below density bound,undecided,34,34,CGPS minimum CM degree,89,56,supersingular incidence at p=3
+104,yes,point below density bound,undecided,48,48,CGPS minimum CM degree,68,68,"newform comparison (limiting form 104.2.s.a, p=3)"
+105,yes,point below density bound,no,96,64,census 1.35.8.a (level 35 to 35 to 105),77,70,"newform comparison (limiting form 105.2.s.a, p=2)"
+106,yes,point below density bound,undecided,26,26,CGPS minimum CM degree,71,44,supersingular incidence at p=3
+107,yes,point below density bound,undecided,106,93,"Siegel-unit fiber, certificates/siegel_prime.py",96,96,"newform comparison (limiting form 107.2.a.a, p=3)"
+108,yes,cuspidal fibers and modular units,no,72,52,census 1.54.13.a (level 54 to 54 to 108),50,50,rank zero and gonality
+109,yes,point below density bound,undecided,36,36,CGPS minimum CM degree,99,62,supersingular incidence at p=3
+110,yes,point below density bound,undecided,80,54,census 1.55.18.a (level 55 to 55 to 110),72,72,rank zero and gonality
+111,yes,point below density bound,yes,24,24,CGPS minimum CM degree,92,51,supersingular incidence at p=5
+112,yes,point below density bound,undecided,48,48,CGPS minimum CM degree,77,70,integral or equality refinement on newform factors
+113,yes,point below density bound,undecided,56,56,CGPS minimum CM degree,107,67,supersingular incidence at p=3
+114,yes,point below density bound,undecided,36,36,CGPS minimum CM degree,56,40,supersingular incidence at p=5
+115,yes,point below density bound,undecided,88,88,CGPS minimum CM degree,106,106,"newform comparison (limiting form 115.2.a.b, p=2)"
+116,yes,point below density bound,undecided,56,48,van Hoeij level 58 degree 12 (level 58 to 58 to 116),84,53,supersingular incidence at p=3
+117,yes,point below density bound,undecided,72,72,CGPS minimum CM degree,101,73,supersingular zeros of the 117a1 differential at 2
+118,yes,point below density bound,undecided,58,58,CGPS minimum CM degree,87,68,integral or equality refinement on newform factors
+119,yes,point below density bound,undecided,96,96,CGPS minimum CM degree,116,116,rank zero and gonality
+120,yes,cuspidal fibers and modular units,undecided,64,52,census 1.60.13.a (level 60 to 60 to 120),47,47,rank zero and gonality
+121,yes,point below density bound,undecided,110,110,"CM discriminant -7, generator of the cyclic kernel of (2+sqrt(-7))^2",121,121,ramified descent to X(11) and degree-19 divisor sieve
+122,yes,point below density bound,undecided,30,30,CGPS minimum CM degree,93,59,supersingular incidence at p=3
+123,yes,point below density bound,undecided,80,48,"degree-48 closed point, certificates/siegel_quotient123.py",112,80,projective bound for elliptic incidence
+124,yes,point below density bound,undecided,60,60,CGPS minimum CM degree,96,84,integral or equality refinement on newform factors
+125,yes,point below density bound,undecided,50,50,CGPS minimum CM degree,125,79,supersingular incidence at p=3
+126,yes,point below density bound,undecided,72,54,van Hoeij level 63 degree 18 (level 63 to 63 to 126),67,66,"newform comparison (limiting form 126.2.h.a, p=5)"
+127,yes,point below density bound,undecided,42,42,CGPS minimum CM degree,135,84,supersingular incidence at p=3
+128,yes,point below density bound,undecided,64,64,CGPS minimum CM degree,103,90,integral or equality refinement on newform factors
+129,yes,point below density bound,yes,28,28,CGPS minimum CM degree,124,69,supersingular incidence at p=5
+130,yes,point below density bound,yes,24,24,CGPS minimum CM degree,101,63,supersingular incidence at p=3
+131,unresolved,,undecided,130,130,CGPS minimum CM degree,143,111,integral or equality refinement on newform factors
+132,yes,point below density bound,undecided,80,64,census 1.66.16.a (level 66 to 66 to 132),74,74,rank zero and gonality
+133,yes,point below density bound,yes,36,36,CGPS minimum CM degree,144,90,supersingular incidence at p=3
+134,yes,point below density bound,undecided,66,66,CGPS minimum CM degree,113,71,supersingular incidence at p=3
+135,yes,point below density bound,undecided,72,72,CGPS minimum CM degree,130,130,"newform comparison (limiting form 135.2.a.a, p=2)"
+136,yes,point below density bound,undecided,64,64,CGPS minimum CM degree,116,72,supersingular incidence at p=3
+137,yes,point below density bound,undecided,68,68,CGPS minimum CM degree,157,98,supersingular incidence at p=3
+138,yes,point below density bound,undecided,88,82,"degree-82 closed point, certificates/fibre138.py",108,88,elliptic direction on the reduction graph at 2
+139,yes,point below density bound,yes,46,46,CGPS minimum CM degree,161,101,supersingular incidence at p=3
+140,yes,point below density bound,no,144,80,van Hoeij level 70 degree 20 (level 70 to 70 to 140),116,116,rank zero and gonality
+141,yes,point below density bound,undecided,92,92,CGPS minimum CM degree,148,99,integral or equality refinement on newform factors
+142,yes,point below density bound,undecided,70,70,CGPS minimum CM degree,126,79,supersingular incidence at p=3
+143,yes,point below density bound,undecided,120,120,CGPS minimum CM degree,168,128,integral or equality refinement on newform factors
+144,yes,point below density bound,no,144,88,van Hoeij level 72 degree 22 (level 72 to 72 to 144),89,89,"newform comparison (limiting form 144.2.s.a, p=5)"
+145,yes,point below density bound,undecided,56,56,CGPS minimum CM degree,168,105,supersingular incidence at p=3
+146,yes,point below density bound,yes,36,36,CGPS minimum CM degree,134,84,supersingular incidence at p=3
+147,yes,point below density bound,yes,28,28,CGPS minimum CM degree,157,88,supersingular incidence at p=5
+148,yes,point below density bound,undecided,72,72,CGPS minimum CM degree,137,86,supersingular incidence at p=3
+149,yes,point below density bound,undecided,74,74,CGPS minimum CM degree,185,116,supersingular incidence at p=3
+150,yes,cuspidal fibers and modular units,undecided,80,75,van Hoeij level 75 degree 25 (level 75 to 75 to 150),72,72,rank zero and gonality
+151,yes,point below density bound,yes,50,50,CGPS minimum CM degree,190,119,supersingular incidence at p=3
+152,yes,point below density bound,undecided,144,120,van Hoeij level 76 degree 30 (level 76 to 76 to 152),144,125,integral or equality refinement on newform factors
+153,yes,point below density bound,undecided,96,96,CGPS minimum CM degree,173,129,integral or equality refinement on newform factors
+154,yes,point below density bound,undecided,60,60,CGPS minimum CM degree,144,90,supersingular incidence at p=3
+155,yes,point below density bound,undecided,120,120,CGPS minimum CM degree,192,152,integral or equality refinement on newform factors
+156,yes,point below density bound,undecided,48,48,CGPS minimum CM degree,104,75,supersingular incidence at p=5
+157,yes,point below density bound,yes,52,52,CGPS minimum CM degree,206,129,supersingular incidence at p=3
+158,yes,point below density bound,undecided,78,78,CGPS minimum CM degree,156,98,supersingular incidence at p=3
+159,yes,point below density bound,undecided,104,104,CGPS minimum CM degree,188,118,integral or equality refinement on newform factors
+160,yes,point below density bound,undecided,128,80,van Hoeij level 80 degree 20 (level 80 to 80 to 160),154,96,supersingular incidence at p=3
+161,yes,point below density bound,undecided,132,132,CGPS minimum CM degree,212,176,"newform comparison (limiting form 161.2.a.b, p=2)"
+162,yes,point below density bound,undecided,54,54,CGPS minimum CM degree,113,81,supersingular incidence at p=5
+163,yes,point below density bound,yes,54,54,CGPS minimum CM degree,222,139,supersingular incidence at p=3
+164,yes,point below density bound,undecided,80,80,CGPS minimum CM degree,168,105,supersingular incidence at p=3
+165,yes,point below density bound,undecided,80,80,CGPS minimum CM degree,192,107,supersingular incidence at p=2
+166,yes,point below density bound,undecided,82,82,CGPS minimum CM degree,173,108,supersingular incidence at p=3
+167,yes,point below density bound,undecided,166,166,CGPS minimum CM degree,233,194,"newform comparison (limiting form 167.2.a.a, p=2)"
+168,yes,point below density bound,undecided,96,96,CGPS minimum CM degree,119,119,rank zero and gonality
+169,yes,point below density bound,yes,52,52,CGPS minimum CM degree,237,148,supersingular incidence at p=3
+170,yes,point below density bound,yes,32,32,CGPS minimum CM degree,173,108,supersingular incidence at p=3
+171,yes,point below density bound,undecided,108,108,CGPS minimum CM degree,216,120,supersingular incidence at p=5
+172,yes,point below density bound,undecided,84,84,CGPS minimum CM degree,185,116,supersingular incidence at p=3
+173,yes,point below density bound,undecided,86,86,CGPS minimum CM degree,250,156,supersingular incidence at p=3
+174,yes,point below density bound,undecided,112,96,van Hoeij level 58 degree 12 (level 58 to 58 to 174),130,125,"newform comparison (limiting form 58.2.a.a, p=5)"
+175,yes,point below density bound,undecided,120,120,CGPS minimum CM degree,240,150,supersingular incidence at p=3
+176,yes,point below density bound,undecided,80,80,CGPS minimum CM degree,192,120,supersingular incidence at p=3
+177,yes,point below density bound,undecided,116,116,CGPS minimum CM degree,232,129,supersingular incidence at p=5
+178,yes,point below density bound,yes,44,44,CGPS minimum CM degree,198,124,supersingular incidence at p=3
+179,yes,point below density bound,undecided,178,178,CGPS minimum CM degree,267,250,"newform comparison (limiting form 179.2.a.b, p=3)"
+180,yes,point below density bound,undecided,144,117,"degree-117 closed point above 1.60.13.a, certificates/point180.m",140,140,rank zero and Igusa components at 5
+181,yes,point below density bound,yes,60,60,CGPS minimum CM degree,273,171,supersingular incidence at p=3
+182,yes,point below density bound,undecided,72,72,CGPS minimum CM degree,202,126,supersingular incidence at p=3
+183,yes,point below density bound,yes,40,40,CGPS minimum CM degree,248,138,supersingular incidence at p=5
+184,yes,point below density bound,undecided,88,88,CGPS minimum CM degree,212,132,supersingular incidence at p=3
+185,yes,point below density bound,yes,72,72,CGPS minimum CM degree,274,171,supersingular incidence at p=3
+186,yes,point below density bound,undecided,60,60,CGPS minimum CM degree,148,107,supersingular incidence at p=5
+187,yes,point below density bound,undecided,160,160,CGPS minimum CM degree,288,180,supersingular incidence at p=3
+188,yes,point below density bound,undecided,184,184,CGPS minimum CM degree,221,221,"newform comparison (limiting form 188.2.a.a, p=3)"
+189,yes,point below density bound,undecided,108,108,CGPS minimum CM degree,260,144,supersingular incidence at p=5
+190,yes,point below density bound,undecided,144,144,CGPS minimum CM degree,216,168,integral or equality refinement on newform factors
+191,yes,point below density bound,undecided,190,190,CGPS minimum CM degree,304,254,"newform comparison (limiting form 191.2.a.a, p=2)"
+192,yes,point below density bound,undecided,128,128,CGPS minimum CM degree,158,138,integral or equality refinement on newform factors
+193,yes,point below density bound,yes,64,64,CGPS minimum CM degree,311,194,supersingular incidence at p=3
+194,yes,point below density bound,yes,48,48,CGPS minimum CM degree,236,147,supersingular incidence at p=3
+195,yes,point below density bound,undecided,192,160,van Hoeij level 65 degree 20 (level 65 to 65 to 195),269,169,integral or equality refinement on newform factors
+196,yes,point below density bound,undecided,84,84,CGPS minimum CM degree,236,147,supersingular incidence at p=3
+197,yes,point below density bound,undecided,98,98,CGPS minimum CM degree,324,203,supersingular incidence at p=3
+198,yes,point below density bound,yes,60,60,CGPS minimum CM degree,167,120,supersingular incidence at p=5
+199,yes,point below density bound,yes,66,66,CGPS minimum CM degree,330,207,supersingular incidence at p=3
+200,yes,point below density bound,undecided,80,80,CGPS minimum CM degree,240,150,supersingular incidence at p=3
+201,yes,point below density bound,yes,44,44,CGPS minimum CM degree,300,167,supersingular incidence at p=5
+202,yes,point below density bound,yes,50,50,CGPS minimum CM degree,255,160,supersingular incidence at p=3
+203,yes,point below density bound,undecided,168,168,CGPS minimum CM degree,336,210,supersingular incidence at p=3
+204,yes,point below density bound,undecided,128,128,CGPS minimum CM degree,178,178,"newform comparison (limiting form 102.2.a.a, p=5)"
+205,yes,point below density bound,yes,80,80,CGPS minimum CM degree,336,210,supersingular incidence at p=3
+206,yes,point below density bound,undecided,102,102,CGPS minimum CM degree,266,166,supersingular incidence at p=3
+207,yes,point below density bound,undecided,132,132,CGPS minimum CM degree,317,176,supersingular incidence at p=5
+208,yes,point below density bound,undecided,192,192,CGPS minimum CM degree,269,196,integral or equality refinement on newform factors
+209,yes,point below density bound,undecided,180,180,CGPS minimum CM degree,360,225,supersingular incidence at p=3
+210,yes,point below density bound,undecided,96,96,"CM discriminant -24, marking (sqrt(-6)-48)/N, certificates/levels210_420.py",231,116,Frey and two-component reduction at 2
+211,yes,point below density bound,yes,70,70,CGPS minimum CM degree,371,232,supersingular incidence at p=3
+212,yes,point below density bound,undecided,104,104,CGPS minimum CM degree,281,176,supersingular incidence at p=3
+213,yes,point below density bound,undecided,140,140,CGPS minimum CM degree,336,187,supersingular incidence at p=5
+214,yes,point below density bound,undecided,106,106,CGPS minimum CM degree,287,179,supersingular incidence at p=3
+215,yes,point below density bound,undecided,168,168,CGPS minimum CM degree,370,231,supersingular incidence at p=3
+216,yes,point below density bound,undecided,144,144,CGPS minimum CM degree,200,200,"newform comparison (limiting form 216.2.a.a, p=5)"
+217,yes,point below density bound,yes,60,60,CGPS minimum CM degree,384,240,supersingular incidence at p=3
+218,yes,point below density bound,yes,54,54,CGPS minimum CM degree,297,186,supersingular incidence at p=3
+219,yes,point below density bound,yes,48,48,CGPS minimum CM degree,356,198,supersingular incidence at p=5
+220,yes,point below density bound,undecided,240,216,census 1.55.18.a (level 55 to 55 to 220),288,247,integral or equality refinement on newform factors
+221,yes,point below density bound,yes,96,96,CGPS minimum CM degree,404,252,supersingular incidence at p=3
+222,yes,point below density bound,yes,72,72,CGPS minimum CM degree,211,152,supersingular incidence at p=5
+223,yes,point below density bound,yes,74,74,CGPS minimum CM degree,415,259,supersingular incidence at p=3
+224,yes,point below density bound,undecided,96,96,CGPS minimum CM degree,308,192,supersingular incidence at p=3
+225,yes,point below density bound,undecided,120,120,CGPS minimum CM degree,360,200,supersingular incidence at p=2
+226,yes,point below density bound,yes,56,56,CGPS minimum CM degree,320,200,supersingular incidence at p=3
+227,yes,point below density bound,undecided,226,226,CGPS minimum CM degree,430,269,supersingular incidence at p=3
+228,yes,point below density bound,yes,72,72,CGPS minimum CM degree,222,160,supersingular incidence at p=5
+229,yes,point below density bound,yes,76,76,CGPS minimum CM degree,437,274,supersingular incidence at p=3
+230,yes,point below density bound,undecided,176,176,CGPS minimum CM degree,317,198,supersingular incidence at p=3
+231,yes,point below density bound,undecided,240,240,"CM discriminant -24, marking (sqrt(-6)-216)/N, certificates/igusa231_303.py",384,266,moving elliptic projections on the Igusa components at 3
+232,yes,point below density bound,undecided,112,112,CGPS minimum CM degree,336,210,supersingular incidence at p=3
+233,yes,point below density bound,yes,116,116,CGPS minimum CM degree,453,283,supersingular incidence at p=3
+234,yes,point below density bound,undecided,144,144,CGPS minimum CM degree,233,168,supersingular incidence at p=5
+235,yes,point below density bound,undecided,184,184,CGPS minimum CM degree,442,276,supersingular incidence at p=3
+236,yes,point below density bound,undecided,232,232,CGPS minimum CM degree,348,258,integral or equality refinement on newform factors
+237,yes,point below density bound,yes,52,52,CGPS minimum CM degree,416,232,supersingular incidence at p=5
+238,yes,point below density bound,undecided,192,192,CGPS minimum CM degree,346,216,supersingular incidence at p=3
+239,yes,point below density bound,undecided,238,238,CGPS minimum CM degree,476,298,supersingular incidence at p=3
+240,yes,point below density bound,undecided,128,128,CGPS minimum CM degree,185,144,supersingular incidence at p=7
+241,yes,point below density bound,yes,80,80,CGPS minimum CM degree,484,303,supersingular incidence at p=3
+242,yes,point below density bound,undecided,110,110,CGPS minimum CM degree,363,227,supersingular incidence at p=3
+243,yes,point below density bound,undecided,162,162,CGPS minimum CM degree,438,243,supersingular incidence at p=5
+244,yes,point below density bound,undecided,120,120,CGPS minimum CM degree,372,233,supersingular incidence at p=3
+245,yes,point below density bound,undecided,168,168,CGPS minimum CM degree,471,294,supersingular incidence at p=3
+246,yes,point below density bound,yes,80,80,CGPS minimum CM degree,259,187,supersingular incidence at p=5
+247,yes,point below density bound,yes,72,72,CGPS minimum CM degree,504,315,supersingular incidence at p=3
+248,yes,point below density bound,undecided,240,240,CGPS minimum CM degree,384,290,integral or equality refinement on newform factors
+249,yes,point below density bound,undecided,164,164,CGPS minimum CM degree,460,256,supersingular incidence at p=5
+250,yes,point below density bound,yes,50,50,CGPS minimum CM degree,375,235,supersingular incidence at p=3
+251,yes,point below density bound,undecided,250,250,CGPS minimum CM degree,525,329,supersingular incidence at p=3
+252,yes,point below density bound,undecided,216,216,CGPS minimum CM degree,266,239,"newform comparison (limiting form 252.2.i.a, p=5)"
+253,yes,point below density bound,undecided,220,220,CGPS minimum CM degree,528,330,supersingular incidence at p=3
+254,yes,point below density bound,undecided,126,126,CGPS minimum CM degree,404,252,supersingular incidence at p=3
+255,yes,point below density bound,undecided,256,256,CGPS minimum CM degree,461,257,higher-dimensional equality obstruction
+256,yes,point below density bound,undecided,128,128,CGPS minimum CM degree,410,256,supersingular incidence at p=3
+257,yes,point below density bound,yes,128,128,CGPS minimum CM degree,551,344,supersingular incidence at p=3
+258,yes,point below density bound,yes,84,84,CGPS minimum CM degree,285,206,supersingular incidence at p=5
+259,yes,point below density bound,yes,72,72,CGPS minimum CM degree,548,342,supersingular incidence at p=3
+260,yes,point below density bound,yes,96,96,CGPS minimum CM degree,404,252,supersingular incidence at p=3
+261,yes,point below density bound,undecided,336,336,CGPS minimum CM degree,504,420,"newform comparison (limiting form 261.2.a.a, p=2)"
+262,yes,point below density bound,undecided,130,130,CGPS minimum CM degree,429,269,supersingular incidence at p=3
+263,yes,point below density bound,undecided,262,262,CGPS minimum CM degree,577,361,supersingular incidence at p=3
+264,yes,point below density bound,undecided,160,160,CGPS minimum CM degree,296,214,supersingular incidence at p=5
+265,yes,point below density bound,yes,104,104,CGPS minimum CM degree,562,351,supersingular incidence at p=3
+266,yes,point below density bound,yes,108,108,CGPS minimum CM degree,432,270,supersingular incidence at p=3
+267,yes,point below density bound,undecided,176,176,CGPS minimum CM degree,528,294,supersingular incidence at p=5
+268,yes,point below density bound,yes,132,132,CGPS minimum CM degree,449,281,supersingular incidence at p=3
+269,yes,point below density bound,yes,134,134,CGPS minimum CM degree,603,377,supersingular incidence at p=3
+270,yes,point below density bound,undecided,144,144,CGPS minimum CM degree,234,183,supersingular incidence at p=7
+271,yes,point below density bound,yes,90,90,CGPS minimum CM degree,612,383,supersingular incidence at p=3
+272,yes,point below density bound,undecided,256,256,CGPS minimum CM degree,461,288,supersingular incidence at p=3
+273,yes,point below density bound,yes,48,48,CGPS minimum CM degree,538,299,supersingular incidence at p=5
+274,yes,point below density bound,yes,68,68,CGPS minimum CM degree,470,294,supersingular incidence at p=3
+275,yes,point below density bound,undecided,200,200,CGPS minimum CM degree,600,375,supersingular incidence at p=3
+276,yes,point below density bound,undecided,176,176,CGPS minimum CM degree,325,235,supersingular incidence at p=5
+277,yes,point below density bound,yes,92,92,CGPS minimum CM degree,640,400,supersingular incidence at p=3
+278,yes,point below density bound,yes,138,138,CGPS minimum CM degree,483,302,supersingular incidence at p=3
+279,yes,point below density bound,undecided,180,180,CGPS minimum CM degree,576,320,supersingular incidence at p=5
+280,yes,point below density bound,undecided,288,288,CGPS minimum CM degree,461,333,integral or equality refinement on newform factors
+281,yes,point below density bound,yes,140,140,CGPS minimum CM degree,658,412,supersingular incidence at p=3
+282,yes,point below density bound,undecided,184,184,CGPS minimum CM degree,340,246,supersingular incidence at p=5
+283,yes,point below density bound,yes,94,94,CGPS minimum CM degree,668,418,supersingular incidence at p=3
+284,yes,point below density bound,yes,140,140,CGPS minimum CM degree,504,315,supersingular incidence at p=3
+285,yes,point below density bound,undecided,288,288,CGPS minimum CM degree,576,320,supersingular incidence at p=2
+286,yes,point below density bound,undecided,240,240,CGPS minimum CM degree,504,315,supersingular incidence at p=3
+287,yes,point below density bound,undecided,480,480,CGPS minimum CM degree,672,560,"newform comparison (limiting form 287.2.a.b, p=2)"
+288,yes,point below density bound,undecided,288,288,CGPS minimum CM degree,355,296,integral or equality refinement on newform factors
+289,yes,point below density bound,yes,136,136,CGPS minimum CM degree,694,434,supersingular incidence at p=3
+290,yes,point below density bound,yes,56,56,CGPS minimum CM degree,504,315,supersingular incidence at p=3
+291,yes,point below density bound,yes,64,64,CGPS minimum CM degree,628,349,supersingular incidence at p=5
+292,yes,point below density bound,yes,144,144,CGPS minimum CM degree,533,333,supersingular incidence at p=3
+293,yes,point below density bound,yes,146,146,CGPS minimum CM degree,716,448,supersingular incidence at p=3
+294,yes,point below density bound,yes,84,84,CGPS minimum CM degree,362,262,supersingular incidence at p=5
+295,yes,point below density bound,undecided,232,232,CGPS minimum CM degree,696,435,supersingular incidence at p=3
+296,yes,point below density bound,yes,144,144,CGPS minimum CM degree,548,342,supersingular incidence at p=3
+297,yes,point below density bound,yes,180,180,CGPS minimum CM degree,648,360,supersingular incidence at p=5
+298,yes,point below density bound,yes,74,74,CGPS minimum CM degree,555,347,supersingular incidence at p=3
+299,yes,point below density bound,undecided,264,264,CGPS minimum CM degree,740,462,supersingular incidence at p=3
+300,yes,point below density bound,undecided,240,240,CGPS minimum CM degree,288,288,"newform comparison (limiting form 300.2.a.a, p=7)"
+301,yes,point below density bound,yes,84,84,CGPS minimum CM degree,740,462,supersingular incidence at p=3
+302,yes,point below density bound,yes,150,150,CGPS minimum CM degree,570,357,supersingular incidence at p=3
+303,yes,point below density bound,undecided,400,400,"CM discriminant -24, marking (sqrt(-6)-216)/N, certificates/igusa231_303.py",680,462,moving elliptic projections on the Igusa components at 3
+304,yes,point below density bound,undecided,288,288,CGPS minimum CM degree,576,360,supersingular incidence at p=3
+305,yes,point below density bound,yes,120,120,CGPS minimum CM degree,744,465,supersingular incidence at p=3
+306,yes,point below density bound,yes,96,96,CGPS minimum CM degree,399,288,supersingular incidence at p=5
+307,yes,point below density bound,yes,102,102,CGPS minimum CM degree,786,491,supersingular incidence at p=3
+308,yes,point below density bound,yes,120,120,CGPS minimum CM degree,576,360,supersingular incidence at p=3
+309,yes,point below density bound,yes,68,68,CGPS minimum CM degree,708,393,supersingular incidence at p=5
+310,yes,point below density bound,undecided,240,240,CGPS minimum CM degree,576,360,supersingular incidence at p=3
+311,yes,point below density bound,undecided,310,310,CGPS minimum CM degree,806,504,supersingular incidence at p=3
+312,yes,point below density bound,undecided,192,192,CGPS minimum CM degree,414,299,supersingular incidence at p=5
+313,yes,point below density bound,yes,104,104,CGPS minimum CM degree,817,511,supersingular incidence at p=3
+314,yes,point below density bound,yes,78,78,CGPS minimum CM degree,617,386,supersingular incidence at p=3
+315,yes,point below density bound,undecided,288,288,CGPS minimum CM degree,692,384,supersingular incidence at p=2
+316,yes,point below density bound,yes,156,156,CGPS minimum CM degree,624,390,supersingular incidence at p=3
+317,yes,point below density bound,yes,158,158,CGPS minimum CM degree,838,524,supersingular incidence at p=3
+318,yes,point below density bound,undecided,208,208,CGPS minimum CM degree,432,312,supersingular incidence at p=5
+319,yes,point below density bound,undecided,280,280,CGPS minimum CM degree,840,525,supersingular incidence at p=3
+320,yes,point below density bound,undecided,256,256,CGPS minimum CM degree,615,384,supersingular incidence at p=3
+321,yes,point below density bound,yes,212,212,CGPS minimum CM degree,764,424,supersingular incidence at p=5
+322,yes,point below density bound,yes,132,132,CGPS minimum CM degree,634,396,supersingular incidence at p=3
+323,yes,point below density bound,undecided,288,288,CGPS minimum CM degree,864,540,supersingular incidence at p=3
+324,yes,point below density bound,undecided,216,216,CGPS minimum CM degree,449,324,supersingular incidence at p=5
+325,yes,point below density bound,yes,120,120,CGPS minimum CM degree,840,525,supersingular incidence at p=3
+326,yes,point below density bound,yes,162,162,CGPS minimum CM degree,665,416,supersingular incidence at p=3
+327,yes,point below density bound,yes,72,72,CGPS minimum CM degree,792,440,supersingular incidence at p=5
+328,yes,point below density bound,yes,160,160,CGPS minimum CM degree,672,420,supersingular incidence at p=3
+329,yes,point below density bound,undecided,276,276,CGPS minimum CM degree,884,552,supersingular incidence at p=3
+330,yes,point below density bound,yes,160,160,CGPS minimum CM degree,346,270,supersingular incidence at p=7
+331,yes,point below density bound,yes,110,110,CGPS minimum CM degree,913,571,supersingular incidence at p=3
+332,yes,point below density bound,undecided,328,328,CGPS minimum CM degree,689,431,supersingular incidence at p=3
+333,yes,point below density bound,yes,216,216,CGPS minimum CM degree,821,456,supersingular incidence at p=5
+334,yes,point below density bound,undecided,332,332,CGPS minimum CM degree,698,436,supersingular incidence at p=3
+335,yes,point below density bound,yes,264,264,CGPS minimum CM degree,898,561,supersingular incidence at p=3
+336,yes,point below density bound,undecided,192,192,CGPS minimum CM degree,473,342,supersingular incidence at p=5
+337,yes,point below density bound,yes,112,112,CGPS minimum CM degree,947,592,supersingular incidence at p=3
+338,yes,point below density bound,yes,78,78,CGPS minimum CM degree,710,444,supersingular incidence at p=3
+339,yes,point below density bound,yes,224,224,CGPS minimum CM degree,852,473,supersingular incidence at p=5
+340,yes,point below density bound,yes,128,128,CGPS minimum CM degree,692,432,supersingular incidence at p=3
+341,yes,point below density bound,undecided,300,300,CGPS minimum CM degree,960,600,supersingular incidence at p=3
+342,yes,point below density bound,yes,108,108,CGPS minimum CM degree,499,360,supersingular incidence at p=5
+343,yes,point below density bound,yes,98,98,CGPS minimum CM degree,961,601,supersingular incidence at p=3
+344,yes,point below density bound,yes,168,168,CGPS minimum CM degree,740,462,supersingular incidence at p=3
+345,yes,point below density bound,yes,176,176,CGPS minimum CM degree,845,470,supersingular incidence at p=2
+346,yes,point below density bound,yes,86,86,CGPS minimum CM degree,749,468,supersingular incidence at p=3
+347,yes,point below density bound,undecided,346,346,CGPS minimum CM degree,1004,628,supersingular incidence at p=3
+348,yes,point below density bound,undecided,336,336,CGPS minimum CM degree,517,374,supersingular incidence at p=5
+349,yes,point below density bound,yes,116,116,CGPS minimum CM degree,1015,635,supersingular incidence at p=3
+350,yes,point below density bound,undecided,240,240,CGPS minimum CM degree,720,450,supersingular incidence at p=3
+351,yes,point below density bound,yes,216,216,CGPS minimum CM degree,908,504,supersingular incidence at p=5
+352,yes,point below density bound,yes,160,160,CGPS minimum CM degree,768,480,supersingular incidence at p=3
+353,yes,point below density bound,yes,176,176,CGPS minimum CM degree,1039,649,supersingular incidence at p=3
+354,yes,point below density bound,yes,116,116,CGPS minimum CM degree,536,387,supersingular incidence at p=5
+355,yes,point below density bound,yes,280,280,CGPS minimum CM degree,1008,630,supersingular incidence at p=3
+356,yes,point below density bound,yes,176,176,CGPS minimum CM degree,792,495,supersingular incidence at p=3
+357,yes,point below density bound,undecided,384,384,CGPS minimum CM degree,922,512,supersingular incidence at p=5
+358,yes,point below density bound,yes,178,178,CGPS minimum CM degree,801,501,supersingular incidence at p=3
+359,yes,point below density bound,undecided,358,358,CGPS minimum CM degree,1074,672,supersingular incidence at p=3
+360,yes,point below density bound,undecided,384,384,CGPS minimum CM degree,415,415,"newform comparison (limiting form 360.2.a.a, p=7)"
+361,yes,point below density bound,yes,114,114,CGPS minimum CM degree,1083,677,supersingular incidence at p=3
+362,yes,point below density bound,yes,90,90,CGPS minimum CM degree,819,512,supersingular incidence at p=3
+363,yes,point below density bound,yes,220,220,CGPS minimum CM degree,968,538,supersingular incidence at p=5
+364,yes,point below density bound,yes,144,144,CGPS minimum CM degree,807,504,supersingular incidence at p=3
+365,yes,point below density bound,yes,144,144,CGPS minimum CM degree,1066,666,supersingular incidence at p=3
+366,yes,point below density bound,yes,120,120,CGPS minimum CM degree,573,414,supersingular incidence at p=5
+367,yes,point below density bound,yes,122,122,CGPS minimum CM degree,1123,702,supersingular incidence at p=3
+368,yes,point below density bound,yes,176,176,CGPS minimum CM degree,845,528,supersingular incidence at p=3
+369,yes,point below density bound,yes,240,240,CGPS minimum CM degree,1008,560,supersingular incidence at p=5
+370,yes,point below density bound,yes,72,72,CGPS minimum CM degree,821,513,supersingular incidence at p=3
+371,yes,point below density bound,yes,312,312,CGPS minimum CM degree,1124,702,supersingular incidence at p=3
+372,yes,point below density bound,yes,120,120,CGPS minimum CM degree,591,427,supersingular incidence at p=5
+373,yes,point below density bound,yes,124,124,CGPS minimum CM degree,1160,725,supersingular incidence at p=3
+374,yes,point below density bound,yes,160,160,CGPS minimum CM degree,864,540,supersingular incidence at p=3
+375,yes,point below density bound,yes,200,200,CGPS minimum CM degree,1000,556,supersingular incidence at p=2
+376,yes,point below density bound,undecided,368,368,CGPS minimum CM degree,884,552,supersingular incidence at p=3
+377,yes,point below density bound,yes,168,168,CGPS minimum CM degree,1176,735,supersingular incidence at p=3
+378,yes,point below density bound,yes,216,216,CGPS minimum CM degree,599,432,supersingular incidence at p=5
+379,yes,point below density bound,yes,126,126,CGPS minimum CM degree,1197,749,supersingular incidence at p=3
+380,yes,point below density bound,undecided,288,288,CGPS minimum CM degree,864,540,supersingular incidence at p=3
+381,yes,point below density bound,yes,84,84,CGPS minimum CM degree,1076,598,supersingular incidence at p=5
+382,yes,point below density bound,yes,190,190,CGPS minimum CM degree,912,570,supersingular incidence at p=3
+383,yes,point below density bound,undecided,382,382,CGPS minimum CM degree,1223,764,supersingular incidence at p=3
+384,yes,point below density bound,undecided,256,256,CGPS minimum CM degree,631,456,supersingular incidence at p=5
+385,yes,point below density bound,yes,240,240,CGPS minimum CM degree,1152,720,supersingular incidence at p=3
+386,yes,point below density bound,yes,96,96,CGPS minimum CM degree,932,582,supersingular incidence at p=3
+387,yes,point below density bound,yes,252,252,CGPS minimum CM degree,1109,616,supersingular incidence at p=5
+388,yes,point below density bound,yes,192,192,CGPS minimum CM degree,941,588,supersingular incidence at p=3
+389,yes,point below density bound,yes,194,194,CGPS minimum CM degree,1261,789,supersingular incidence at p=3
+390,yes,point below density bound,yes,192,192,CGPS minimum CM degree,484,378,supersingular incidence at p=7
+391,yes,point below density bound,yes,352,352,CGPS minimum CM degree,1268,792,supersingular incidence at p=3
+392,yes,point below density bound,undecided,336,336,CGPS minimum CM degree,941,588,supersingular incidence at p=3
+393,yes,point below density bound,yes,260,260,CGPS minimum CM degree,1144,636,supersingular incidence at p=5
+394,yes,point below density bound,yes,98,98,CGPS minimum CM degree,971,607,supersingular incidence at p=3
+395,yes,point below density bound,undecided,624,624,CGPS minimum CM degree,1248,780,supersingular incidence at p=3
+396,yes,point below density bound,yes,240,240,CGPS minimum CM degree,665,480,supersingular incidence at p=5
+397,yes,point below density bound,yes,132,132,CGPS minimum CM degree,1314,821,supersingular incidence at p=3
+398,yes,point below density bound,yes,198,198,CGPS minimum CM degree,990,619,supersingular incidence at p=3
+399,yes,point below density bound,yes,72,72,CGPS minimum CM degree,1152,640,supersingular incidence at p=5
+400,yes,point below density bound,undecided,320,320,CGPS minimum CM degree,960,600,supersingular incidence at p=3
+401,yes,point below density bound,yes,200,200,CGPS minimum CM degree,1340,838,supersingular incidence at p=3
+402,yes,point below density bound,yes,132,132,CGPS minimum CM degree,691,499,supersingular incidence at p=5
+403,yes,point below density bound,yes,120,120,CGPS minimum CM degree,1344,840,supersingular incidence at p=3
+404,yes,point below density bound,yes,200,200,CGPS minimum CM degree,1020,638,supersingular incidence at p=3
+405,yes,point below density bound,yes,216,216,CGPS minimum CM degree,1167,648,supersingular incidence at p=2
+406,yes,point below density bound,yes,168,168,CGPS minimum CM degree,1008,630,supersingular incidence at p=3
+407,yes,point below density bound,yes,360,360,CGPS minimum CM degree,1368,855,supersingular incidence at p=3
+408,yes,point below density bound,yes,256,256,CGPS minimum CM degree,709,512,supersingular incidence at p=5
+409,yes,point below density bound,yes,136,136,CGPS minimum CM degree,1394,872,supersingular incidence at p=3
+410,yes,point below density bound,yes,80,80,CGPS minimum CM degree,1008,630,supersingular incidence at p=3
+411,yes,point below density bound,yes,272,272,CGPS minimum CM degree,1252,696,supersingular incidence at p=5
+412,yes,point below density bound,yes,204,204,CGPS minimum CM degree,1061,663,supersingular incidence at p=3
+413,yes,point below density bound,undecided,696,696,CGPS minimum CM degree,1392,870,supersingular incidence at p=3
+414,yes,point below density bound,yes,264,264,CGPS minimum CM degree,732,528,supersingular incidence at p=5
+415,yes,point below density bound,yes,328,328,CGPS minimum CM degree,1378,861,supersingular incidence at p=3
+416,yes,point below density bound,undecided,384,384,CGPS minimum CM degree,1076,672,supersingular incidence at p=3
+417,yes,point below density bound,yes,92,92,CGPS minimum CM degree,1288,716,supersingular incidence at p=5
+418,yes,point below density bound,yes,180,180,CGPS minimum CM degree,1080,675,supersingular incidence at p=3
+419,yes,point below density bound,yes,418,418,CGPS minimum CM degree,1463,915,supersingular incidence at p=3
+420,yes,point below density bound,undecided,384,384,"CM discriminant -24, marking (sqrt(-6)-48)/N, certificates/levels210_420.py",808,404,Frey and two-component reduction at 3
+421,yes,point below density bound,yes,140,140,CGPS minimum CM degree,1477,924,supersingular incidence at p=3
+422,yes,point below density bound,yes,210,210,CGPS minimum CM degree,1113,696,supersingular incidence at p=3
+423,yes,point below density bound,yes,276,276,CGPS minimum CM degree,1325,736,supersingular incidence at p=5
+424,yes,point below density bound,yes,208,208,CGPS minimum CM degree,1124,702,supersingular incidence at p=3
+425,yes,point below density bound,yes,160,160,CGPS minimum CM degree,1440,900,supersingular incidence at p=3
+426,yes,point below density bound,undecided,420,420,CGPS minimum CM degree,776,560,supersingular incidence at p=5
+427,yes,point below density bound,yes,120,120,CGPS minimum CM degree,1488,930,supersingular incidence at p=3
+428,yes,point below density bound,yes,212,212,CGPS minimum CM degree,1145,716,supersingular incidence at p=3
+429,yes,point below density bound,undecided,480,480,CGPS minimum CM degree,1344,747,supersingular incidence at p=5
+430,yes,point below density bound,undecided,336,336,CGPS minimum CM degree,1109,693,supersingular incidence at p=3
+431,yes,point below density bound,yes,430,430,CGPS minimum CM degree,1548,968,supersingular incidence at p=3
+432,yes,point below density bound,undecided,432,432,CGPS minimum CM degree,798,576,supersingular incidence at p=5
+433,yes,point below density bound,yes,144,144,CGPS minimum CM degree,1563,977,supersingular incidence at p=3
+434,yes,point below density bound,yes,180,180,CGPS minimum CM degree,1152,720,supersingular incidence at p=3
+435,yes,point below density bound,undecided,448,448,CGPS minimum CM degree,1344,747,supersingular incidence at p=2
+436,yes,point below density bound,yes,216,216,CGPS minimum CM degree,1188,743,supersingular incidence at p=3
+437,yes,point below density bound,yes,396,396,CGPS minimum CM degree,1584,990,supersingular incidence at p=3
+438,yes,point below density bound,yes,144,144,CGPS minimum CM degree,820,592,supersingular incidence at p=5
+439,yes,point below density bound,yes,146,146,CGPS minimum CM degree,1606,1004,supersingular incidence at p=3
+440,yes,point below density bound,undecided,640,640,CGPS minimum CM degree,1152,720,supersingular incidence at p=3
+441,yes,point below density bound,yes,252,252,CGPS minimum CM degree,1412,784,supersingular incidence at p=5
+442,yes,point below density bound,yes,96,96,CGPS minimum CM degree,1210,756,supersingular incidence at p=3
+443,yes,point below density bound,yes,442,442,CGPS minimum CM degree,1636,1023,supersingular incidence at p=3
+444,yes,point below density bound,yes,144,144,CGPS minimum CM degree,842,608,supersingular incidence at p=5
+445,yes,point below density bound,yes,176,176,CGPS minimum CM degree,1584,990,supersingular incidence at p=3
+446,yes,point below density bound,yes,222,222,CGPS minimum CM degree,1244,777,supersingular incidence at p=3
+447,yes,point below density bound,undecided,592,592,CGPS minimum CM degree,1480,823,supersingular incidence at p=5
+448,yes,point below density bound,yes,192,192,CGPS minimum CM degree,1229,768,supersingular incidence at p=3
+449,yes,point below density bound,yes,224,224,CGPS minimum CM degree,1680,1050,supersingular incidence at p=3
+450,yes,point below density bound,yes,240,240,CGPS minimum CM degree,648,507,supersingular incidence at p=7
+451,yes,point below density bound,yes,400,400,CGPS minimum CM degree,1680,1050,supersingular incidence at p=3
+452,yes,point below density bound,yes,224,224,CGPS minimum CM degree,1277,798,supersingular incidence at p=3
+453,yes,point below density bound,yes,100,100,CGPS minimum CM degree,1520,845,supersingular incidence at p=5
+454,yes,point below density bound,yes,226,226,CGPS minimum CM degree,1289,806,supersingular incidence at p=3
+455,yes,point below density bound,undecided,576,576,CGPS minimum CM degree,1613,1008,supersingular incidence at p=3
+456,yes,point below density bound,yes,288,288,CGPS minimum CM degree,887,640,supersingular incidence at p=5
+457,yes,point below density bound,yes,152,152,CGPS minimum CM degree,1741,1088,supersingular incidence at p=3
+458,yes,point below density bound,yes,114,114,CGPS minimum CM degree,1311,820,supersingular incidence at p=3
+459,yes,point below density bound,yes,288,288,CGPS minimum CM degree,1556,864,supersingular incidence at p=5
+460,yes,point below density bound,yes,352,352,CGPS minimum CM degree,1268,792,supersingular incidence at p=3
+461,yes,point below density bound,yes,230,230,CGPS minimum CM degree,1771,1107,supersingular incidence at p=3
+462,yes,point below density bound,yes,240,240,CGPS minimum CM degree,887,640,supersingular incidence at p=5
+463,yes,point below density bound,yes,154,154,CGPS minimum CM degree,1787,1117,supersingular incidence at p=3
+464,yes,point below density bound,yes,224,224,CGPS minimum CM degree,1344,840,supersingular incidence at p=3
+465,yes,point below density bound,yes,240,240,CGPS minimum CM degree,1536,854,supersingular incidence at p=2
+466,yes,point below density bound,yes,116,116,CGPS minimum CM degree,1358,849,supersingular incidence at p=3
+467,yes,point below density bound,yes,466,466,CGPS minimum CM degree,1818,1136,supersingular incidence at p=3
+468,yes,point below density bound,undecided,432,432,CGPS minimum CM degree,931,672,supersingular incidence at p=5
+469,yes,point below density bound,yes,132,132,CGPS minimum CM degree,1796,1122,supersingular incidence at p=3
+470,yes,point below density bound,yes,368,368,CGPS minimum CM degree,1325,828,supersingular incidence at p=3
+471,yes,point below density bound,yes,104,104,CGPS minimum CM degree,1644,913,supersingular incidence at p=5
+472,yes,point below density bound,undecided,464,464,CGPS minimum CM degree,1392,870,supersingular incidence at p=3
+473,yes,point below density bound,yes,420,420,CGPS minimum CM degree,1848,1155,supersingular incidence at p=3
+474,yes,point below density bound,yes,156,156,CGPS minimum CM degree,960,694,supersingular incidence at p=5
+475,yes,point below density bound,yes,360,360,CGPS minimum CM degree,1800,1125,supersingular incidence at p=3
+476,yes,point below density bound,undecided,576,576,CGPS minimum CM degree,1383,864,supersingular incidence at p=3
+477,yes,point below density bound,yes,312,312,CGPS minimum CM degree,1685,936,supersingular incidence at p=5
+478,yes,point below density bound,yes,238,238,CGPS minimum CM degree,1428,893,supersingular incidence at p=3
+479,yes,point below density bound,yes,478,478,CGPS minimum CM degree,1912,1195,supersingular incidence at p=3
+480,yes,point below density bound,yes,256,256,CGPS minimum CM degree,738,576,supersingular incidence at p=7
+481,yes,point below density bound,yes,144,144,CGPS minimum CM degree,1916,1197,supersingular incidence at p=3
+482,yes,point below density bound,yes,120,120,CGPS minimum CM degree,1452,908,supersingular incidence at p=3
+483,yes,point below density bound,undecided,528,528,CGPS minimum CM degree,1690,939,supersingular incidence at p=5
+484,yes,point below density bound,yes,220,220,CGPS minimum CM degree,1452,908,supersingular incidence at p=3
+485,yes,point below density bound,yes,192,192,CGPS minimum CM degree,1882,1176,supersingular incidence at p=3
+486,yes,point below density bound,yes,162,162,CGPS minimum CM degree,1010,729,supersingular incidence at p=5
+487,yes,point below density bound,yes,162,162,CGPS minimum CM degree,1977,1236,supersingular incidence at p=3
+488,yes,point below density bound,yes,240,240,CGPS minimum CM degree,1488,930,supersingular incidence at p=3
+489,yes,point below density bound,yes,108,108,CGPS minimum CM degree,1772,984,supersingular incidence at p=5
+490,yes,point below density bound,yes,336,336,CGPS minimum CM degree,1412,882,supersingular incidence at p=3
+491,yes,point below density bound,yes,490,490,CGPS minimum CM degree,2009,1256,supersingular incidence at p=3
+492,yes,point below density bound,yes,320,320,CGPS minimum CM degree,1034,747,supersingular incidence at p=5
+493,yes,point below density bound,yes,224,224,CGPS minimum CM degree,2016,1260,supersingular incidence at p=3
+494,yes,point below density bound,yes,216,216,CGPS minimum CM degree,1512,945,supersingular incidence at p=3
+495,yes,point below density bound,yes,240,240,CGPS minimum CM degree,1728,960,supersingular incidence at p=2
+496,yes,point below density bound,undecided,480,480,CGPS minimum CM degree,1536,960,supersingular incidence at p=3
+497,yes,point below density bound,yes,420,420,CGPS minimum CM degree,2016,1260,supersingular incidence at p=3
+498,yes,point below density bound,yes,164,164,CGPS minimum CM degree,1060,766,supersingular incidence at p=5
+499,yes,point below density bound,yes,166,166,CGPS minimum CM degree,2075,1297,supersingular incidence at p=3
+500,yes,point below density bound,yes,200,200,CGPS minimum CM degree,1500,938,supersingular incidence at p=3
+501,yes,point below density bound,undecided,664,664,CGPS minimum CM degree,1860,1033,supersingular incidence at p=5
+502,yes,point below density bound,yes,250,250,CGPS minimum CM degree,1575,985,supersingular incidence at p=3
+503,yes,point below density bound,yes,502,502,CGPS minimum CM degree,2109,1318,supersingular incidence at p=3
+504,yes,point below density bound,undecided,576,576,CGPS minimum CM degree,1064,768,supersingular incidence at p=5
+505,yes,point below density bound,yes,200,200,CGPS minimum CM degree,2040,1275,supersingular incidence at p=3
+506,yes,point below density bound,yes,220,220,CGPS minimum CM degree,1584,990,supersingular incidence at p=3
+507,yes,point below density bound,yes,104,104,CGPS minimum CM degree,1893,1052,supersingular incidence at p=5
+508,yes,point below density bound,yes,252,252,CGPS minimum CM degree,1613,1008,supersingular incidence at p=3
+509,yes,point below density bound,yes,254,254,CGPS minimum CM degree,2159,1350,supersingular incidence at p=3
+510,yes,point below density bound,yes,256,256,CGPS minimum CM degree,830,648,supersingular incidence at p=7
+511,yes,point below density bound,yes,144,144,CGPS minimum CM degree,2132,1332,supersingular incidence at p=3
+512,yes,point below density bound,yes,256,256,CGPS minimum CM degree,1639,1024,supersingular incidence at p=3
+513,yes,point below density bound,yes,324,324,CGPS minimum CM degree,1944,1080,supersingular incidence at p=5
+514,yes,point below density bound,yes,128,128,CGPS minimum CM degree,1652,1032,supersingular incidence at p=3
+515,yes,point below density bound,yes,408,408,CGPS minimum CM degree,2122,1326,supersingular incidence at p=3
+516,yes,point below density bound,yes,168,168,CGPS minimum CM degree,1138,822,supersingular incidence at p=5
+517,yes,point below density bound,yes,460,460,CGPS minimum CM degree,2208,1380,supersingular incidence at p=3
+518,yes,point below density bound,yes,216,216,CGPS minimum CM degree,1642,1026,supersingular incidence at p=3
+519,yes,point below density bound,undecided,688,688,CGPS minimum CM degree,1996,1109,supersingular incidence at p=5
+520,yes,point below density bound,yes,192,192,CGPS minimum CM degree,1613,1008,supersingular incidence at p=3
+521,yes,point below density bound,yes,260,260,CGPS minimum CM degree,2262,1414,supersingular incidence at p=3
+522,yes,point below density bound,yes,336,336,CGPS minimum CM degree,1164,840,supersingular incidence at p=5
+523,yes,point below density bound,yes,174,174,CGPS minimum CM degree,2280,1425,supersingular incidence at p=3
+524,yes,point below density bound,undecided,520,520,CGPS minimum CM degree,1716,1073,supersingular incidence at p=3
+525,yes,point below density bound,yes,480,480,CGPS minimum CM degree,1920,1067,supersingular incidence at p=2
+526,yes,point below density bound,yes,262,262,CGPS minimum CM degree,1730,1081,supersingular incidence at p=3
+527,yes,point below density bound,yes,480,480,CGPS minimum CM degree,2304,1440,supersingular incidence at p=3
+528,yes,point below density bound,undecided,640,640,CGPS minimum CM degree,1182,854,supersingular incidence at p=5
+529,yes,point below density bound,yes,506,506,CGPS minimum CM degree,2328,1455,supersingular incidence at p=3
+530,yes,point below density bound,yes,104,104,CGPS minimum CM degree,1685,1053,supersingular incidence at p=3
+531,yes,point below density bound,yes,348,348,CGPS minimum CM degree,2088,1160,supersingular incidence at p=5
+532,yes,point below density bound,yes,216,216,CGPS minimum CM degree,1728,1080,supersingular incidence at p=3
+533,yes,point below density bound,yes,240,240,CGPS minimum CM degree,2352,1470,supersingular incidence at p=3
+534,yes,point below density bound,yes,176,176,CGPS minimum CM degree,1219,880,supersingular incidence at p=5
+535,yes,point below density bound,undecided,848,848,CGPS minimum CM degree,2290,1431,supersingular incidence at p=3
+536,yes,point below density bound,yes,264,264,CGPS minimum CM degree,1796,1122,supersingular incidence at p=3
+537,yes,point below density bound,yes,356,356,CGPS minimum CM degree,2136,1187,supersingular incidence at p=5
+538,yes,point below density bound,yes,134,134,CGPS minimum CM degree,1809,1131,supersingular incidence at p=3
+539,yes,point below density bound,yes,420,420,CGPS minimum CM degree,2352,1470,supersingular incidence at p=3
+540,yes,point below density bound,yes,432,432,CGPS minimum CM degree,934,729,supersingular incidence at p=7
+541,yes,point below density bound,yes,180,180,CGPS minimum CM degree,2439,1525,supersingular incidence at p=3
+542,yes,point below density bound,yes,270,270,CGPS minimum CM degree,1836,1148,supersingular incidence at p=3
+543,yes,point below density bound,yes,120,120,CGPS minimum CM degree,2184,1214,supersingular incidence at p=5
+544,yes,point below density bound,yes,512,512,CGPS minimum CM degree,1844,1152,supersingular incidence at p=3
+545,yes,point below density bound,yes,216,216,CGPS minimum CM degree,2376,1485,supersingular incidence at p=3
+546,yes,point below density bound,yes,144,144,CGPS minimum CM degree,1241,896,supersingular incidence at p=5
+547,yes,point below density bound,yes,182,182,CGPS minimum CM degree,2494,1559,supersingular incidence at p=3
+548,yes,point below density bound,yes,272,272,CGPS minimum CM degree,1877,1173,supersingular incidence at p=3
+549,yes,point below density bound,yes,360,360,CGPS minimum CM degree,2232,1240,supersingular incidence at p=5
+550,yes,point below density bound,yes,400,400,CGPS minimum CM degree,1800,1125,supersingular incidence at p=3
+551,yes,point below density bound,yes,504,504,CGPS minimum CM degree,2520,1575,supersingular incidence at p=3
+552,yes,point below density bound,yes,352,352,CGPS minimum CM degree,1300,939,supersingular incidence at p=5
+553,yes,point below density bound,yes,156,156,CGPS minimum CM degree,2496,1560,supersingular incidence at p=3
+554,yes,point below density bound,yes,138,138,CGPS minimum CM degree,1919,1199,supersingular incidence at p=3
+555,yes,point below density bound,yes,288,288,CGPS minimum CM degree,2189,1216,supersingular incidence at p=2
+556,yes,point below density bound,yes,276,276,CGPS minimum CM degree,1932,1208,supersingular incidence at p=3
+557,yes,point below density bound,yes,278,278,CGPS minimum CM degree,2586,1616,supersingular incidence at p=3
+558,yes,point below density bound,undecided,540,540,CGPS minimum CM degree,1330,960,supersingular incidence at p=5
+559,yes,point below density bound,yes,168,168,CGPS minimum CM degree,2588,1617,supersingular incidence at p=3
+560,yes,point below density bound,undecided,576,576,CGPS minimum CM degree,1844,1152,supersingular incidence at p=3
+561,yes,point below density bound,yes,320,320,CGPS minimum CM degree,2304,1280,supersingular incidence at p=5
+562,yes,point below density bound,yes,140,140,CGPS minimum CM degree,1974,1234,supersingular incidence at p=3
+563,yes,point below density bound,yes,562,562,CGPS minimum CM degree,2642,1651,supersingular incidence at p=3
+564,yes,point below density bound,yes,368,368,CGPS minimum CM degree,1359,982,supersingular incidence at p=5
+565,yes,point below density bound,yes,224,224,CGPS minimum CM degree,2554,1596,supersingular incidence at p=3
+566,yes,point below density bound,yes,282,282,CGPS minimum CM degree,2003,1252,supersingular incidence at p=3
+567,yes,point below density bound,yes,648,648,CGPS minimum CM degree,2333,1296,supersingular incidence at p=5
+568,yes,point below density bound,yes,280,280,CGPS minimum CM degree,2016,1260,supersingular incidence at p=3
+569,yes,point below density bound,yes,284,284,CGPS minimum CM degree,2698,1687,supersingular incidence at p=3
+570,yes,point below density bound,yes,288,288,CGPS minimum CM degree,1037,810,supersingular incidence at p=7
+571,yes,point below density bound,yes,190,190,CGPS minimum CM degree,2717,1699,supersingular incidence at p=3
+572,yes,point below density bound,undecided,720,720,CGPS minimum CM degree,2016,1260,supersingular incidence at p=3
+573,yes,point below density bound,yes,380,380,CGPS minimum CM degree,2432,1352,supersingular incidence at p=5
+574,yes,point below density bound,yes,480,480,CGPS minimum CM degree,2016,1260,supersingular incidence at p=3
+575,yes,point below density bound,yes,440,440,CGPS minimum CM degree,2640,1650,supersingular incidence at p=3
+576,yes,point below density bound,undecided,576,576,CGPS minimum CM degree,1418,1024,supersingular incidence at p=5
+577,yes,point below density bound,yes,192,192,CGPS minimum CM degree,2775,1734,supersingular incidence at p=3
+578,yes,point below density bound,yes,136,136,CGPS minimum CM degree,2081,1301,supersingular incidence at p=3
+579,yes,point below density bound,yes,128,128,CGPS minimum CM degree,2484,1380,supersingular incidence at p=5
+580,yes,point below density bound,yes,224,224,CGPS minimum CM degree,2016,1260,supersingular incidence at p=3
+581,yes,point below density bound,yes,492,492,CGPS minimum CM degree,2756,1722,supersingular incidence at p=3
+582,yes,point below density bound,yes,192,192,CGPS minimum CM degree,1448,1046,supersingular incidence at p=5
+583,yes,point below density bound,yes,520,520,CGPS minimum CM degree,2808,1755,supersingular incidence at p=3
+584,yes,point below density bound,yes,288,288,CGPS minimum CM degree,2132,1332,supersingular incidence at p=3
+585,yes,point below density bound,yes,576,576,CGPS minimum CM degree,2420,1344,supersingular incidence at p=2
+586,yes,point below density bound,yes,146,146,CGPS minimum CM degree,2147,1342,supersingular incidence at p=3
+587,yes,point below density bound,yes,586,586,CGPS minimum CM degree,2872,1795,supersingular incidence at p=3
+588,yes,point below density bound,yes,168,168,CGPS minimum CM degree,1448,1046,supersingular incidence at p=5
+589,yes,point below density bound,yes,180,180,CGPS minimum CM degree,2880,1800,supersingular incidence at p=3
+590,yes,point below density bound,yes,464,464,CGPS minimum CM degree,2088,1305,supersingular incidence at p=3
+591,yes,point below density bound,undecided,784,784,CGPS minimum CM degree,2588,1438,supersingular incidence at p=5
+592,yes,point below density bound,yes,288,288,CGPS minimum CM degree,2189,1368,supersingular incidence at p=3
+593,yes,point below density bound,yes,296,296,CGPS minimum CM degree,2931,1832,supersingular incidence at p=3
+594,yes,point below density bound,yes,180,180,CGPS minimum CM degree,1496,1080,supersingular incidence at p=5
+595,yes,point below density bound,yes,384,384,CGPS minimum CM degree,2765,1728,supersingular incidence at p=3
+596,yes,point below density bound,yes,296,296,CGPS minimum CM degree,2220,1388,supersingular incidence at p=3
+597,yes,point below density bound,yes,132,132,CGPS minimum CM degree,2640,1467,supersingular incidence at p=5
+598,yes,point below density bound,yes,528,528,CGPS minimum CM degree,2218,1386,supersingular incidence at p=3
+599,yes,point below density bound,yes,598,598,CGPS minimum CM degree,2990,1869,supersingular incidence at p=3
+600,yes,point below density bound,undecided,640,640,CGPS minimum CM degree,1152,900,supersingular incidence at p=7
+601,yes,point below density bound,yes,200,200,CGPS minimum CM degree,3010,1882,supersingular incidence at p=3
+602,yes,point below density bound,yes,252,252,CGPS minimum CM degree,2218,1386,supersingular incidence at p=3
+603,yes,point below density bound,yes,396,396,CGPS minimum CM degree,2693,1496,supersingular incidence at p=5
+604,yes,point below density bound,yes,300,300,CGPS minimum CM degree,2280,1425,supersingular incidence at p=3
+605,yes,point below density bound,yes,440,440,CGPS minimum CM degree,2904,1815,supersingular incidence at p=3
+606,yes,point below density bound,yes,400,400,CGPS minimum CM degree,1570,1134,supersingular incidence at p=5
+607,yes,point below density bound,yes,202,202,CGPS minimum CM degree,3071,1919,supersingular incidence at p=3
+608,yes,point below density bound,yes,576,576,CGPS minimum CM degree,2304,1440,supersingular incidence at p=3
+609,yes,point below density bound,yes,672,672,CGPS minimum CM degree,2688,1494,supersingular incidence at p=5
+610,yes,point below density bound,yes,120,120,CGPS minimum CM degree,2232,1395,supersingular incidence at p=3
+611,yes,point below density bound,yes,552,552,CGPS minimum CM degree,3092,1932,supersingular incidence at p=3
+612,yes,point below density bound,yes,384,384,CGPS minimum CM degree,1596,1152,supersingular incidence at p=5
+613,yes,point below density bound,yes,204,204,CGPS minimum CM degree,3132,1958,supersingular incidence at p=3
+614,yes,point below density bound,yes,306,306,CGPS minimum CM degree,2357,1473,supersingular incidence at p=3
+615,yes,point below density bound,yes,640,640,CGPS minimum CM degree,2688,1494,supersingular incidence at p=2
+616,yes,point below density bound,yes,240,240,CGPS minimum CM degree,2304,1440,supersingular incidence at p=3
+617,yes,point below density bound,yes,308,308,CGPS minimum CM degree,3173,1983,supersingular incidence at p=3
+618,yes,point below density bound,yes,204,204,CGPS minimum CM degree,1632,1179,supersingular incidence at p=5
+619,yes,point below density bound,yes,206,206,CGPS minimum CM degree,3193,1996,supersingular incidence at p=3
+620,yes,point below density bound,yes,480,480,CGPS minimum CM degree,2304,1440,supersingular incidence at p=3
+621,yes,point below density bound,yes,396,396,CGPS minimum CM degree,2852,1584,supersingular incidence at p=5
+622,yes,point below density bound,yes,620,620,CGPS minimum CM degree,2418,1512,supersingular incidence at p=3
+623,yes,point below density bound,undecided,1056,1056,CGPS minimum CM degree,3168,1980,supersingular incidence at p=3
+624,yes,point below density bound,yes,384,384,CGPS minimum CM degree,1655,1195,supersingular incidence at p=5
+625,yes,point below density bound,yes,250,250,CGPS minimum CM degree,3125,1954,supersingular incidence at p=3
+626,yes,point below density bound,yes,156,156,CGPS minimum CM degree,2450,1531,supersingular incidence at p=3
+627,yes,point below density bound,yes,360,360,CGPS minimum CM degree,2880,1600,supersingular incidence at p=5
+628,yes,point below density bound,yes,312,312,CGPS minimum CM degree,2465,1541,supersingular incidence at p=3
+629,yes,point below density bound,yes,288,288,CGPS minimum CM degree,3284,2052,supersingular incidence at p=3
+630,yes,point below density bound,yes,288,288,CGPS minimum CM degree,1234,720,supersingular incidence at p=11
+631,yes,point below density bound,yes,210,210,CGPS minimum CM degree,3318,2074,supersingular incidence at p=3
+632,yes,point below density bound,yes,312,312,CGPS minimum CM degree,2496,1560,supersingular incidence at p=3
+633,yes,point below density bound,yes,140,140,CGPS minimum CM degree,2968,1649,supersingular incidence at p=5
+634,yes,point below density bound,yes,158,158,CGPS minimum CM degree,2513,1571,supersingular incidence at p=3
+635,yes,point below density bound,undecided,1008,1008,CGPS minimum CM degree,3226,2016,supersingular incidence at p=3
+636,yes,point below density bound,yes,416,416,CGPS minimum CM degree,1728,1248,supersingular incidence at p=5
+637,yes,point below density bound,yes,168,168,CGPS minimum CM degree,3293,2058,supersingular incidence at p=3
+638,yes,point below density bound,yes,280,280,CGPS minimum CM degree,2520,1575,supersingular incidence at p=3
+639,yes,point below density bound,yes,420,420,CGPS minimum CM degree,3024,1680,supersingular incidence at p=5
+640,yes,point below density bound,yes,512,512,CGPS minimum CM degree,2458,1536,supersingular incidence at p=3
+641,yes,point below density bound,yes,320,320,CGPS minimum CM degree,3424,2140,supersingular incidence at p=3
+642,yes,point below density bound,yes,212,212,CGPS minimum CM degree,1762,1272,supersingular incidence at p=5
+643,yes,point below density bound,yes,214,214,CGPS minimum CM degree,3446,2154,supersingular incidence at p=3
+644,yes,point below density bound,yes,264,264,CGPS minimum CM degree,2535,1584,supersingular incidence at p=3
+645,yes,point below density bound,yes,672,672,CGPS minimum CM degree,2957,1643,supersingular incidence at p=2
+646,yes,point below density bound,yes,288,288,CGPS minimum CM degree,2592,1620,supersingular incidence at p=3
+647,yes,point below density bound,yes,646,646,CGPS minimum CM degree,3489,2181,supersingular incidence at p=3
+648,yes,point below density bound,yes,432,432,CGPS minimum CM degree,1795,1296,supersingular incidence at p=5
+649,yes,point below density bound,yes,580,580,CGPS minimum CM degree,3480,2175,supersingular incidence at p=3
+650,yes,point below density bound,yes,120,120,CGPS minimum CM degree,2520,1575,supersingular incidence at p=3
+651,yes,point below density bound,yes,120,120,CGPS minimum CM degree,3072,1707,supersingular incidence at p=5
+652,yes,point below density bound,yes,324,324,CGPS minimum CM degree,2657,1661,supersingular incidence at p=3
+653,yes,point below density bound,yes,326,326,CGPS minimum CM degree,3554,2221,supersingular incidence at p=3
+654,yes,point below density bound,yes,216,216,CGPS minimum CM degree,1828,1320,supersingular incidence at p=5
+655,yes,point below density bound,yes,520,520,CGPS minimum CM degree,3432,2145,supersingular incidence at p=3
+656,yes,point below density bound,yes,640,640,CGPS minimum CM degree,2688,1680,supersingular incidence at p=3
+657,yes,point below density bound,yes,432,432,CGPS minimum CM degree,3197,1776,supersingular incidence at p=5
+658,yes,point below density bound,yes,552,552,CGPS minimum CM degree,2650,1656,supersingular incidence at p=3
+659,yes,point below density bound,yes,658,658,CGPS minimum CM degree,3619,2262,supersingular incidence at p=3
+660,yes,point below density bound,yes,480,480,CGPS minimum CM degree,1383,1080,supersingular incidence at p=7
+661,yes,point below density bound,yes,220,220,CGPS minimum CM degree,3641,2276,supersingular incidence at p=3
+662,yes,point below density bound,yes,330,330,CGPS minimum CM degree,2739,1712,supersingular incidence at p=3
+663,yes,point below density bound,yes,768,768,CGPS minimum CM degree,3226,1792,supersingular incidence at p=5
+664,yes,point below density bound,yes,656,656,CGPS minimum CM degree,2756,1722,supersingular incidence at p=3
+665,yes,point below density bound,yes,432,432,CGPS minimum CM degree,3456,2160,supersingular incidence at p=3
+666,yes,point below density bound,yes,432,432,CGPS minimum CM degree,1895,1368,supersingular incidence at p=5
+667,yes,point below density bound,yes,616,616,CGPS minimum CM degree,3696,2310,supersingular incidence at p=3
+668,yes,point below density bound,yes,664,664,CGPS minimum CM degree,2789,1743,supersingular incidence at p=3
+669,yes,point below density bound,yes,148,148,CGPS minimum CM degree,3316,1842,supersingular incidence at p=5
+670,yes,point below density bound,yes,528,528,CGPS minimum CM degree,2693,1683,supersingular incidence at p=3
+671,yes,point below density bound,yes,600,600,CGPS minimum CM degree,3720,2325,supersingular incidence at p=3
+672,yes,point below density bound,undecided,768,768,CGPS minimum CM degree,1891,1366,supersingular incidence at p=5
+673,yes,point below density bound,yes,224,224,CGPS minimum CM degree,3775,2359,supersingular incidence at p=3
+674,yes,point below density bound,yes,168,168,CGPS minimum CM degree,2840,1775,supersingular incidence at p=3
+675,yes,point below density bound,yes,360,360,CGPS minimum CM degree,3240,1800,supersingular incidence at p=2
+676,yes,point below density bound,yes,312,312,CGPS minimum CM degree,2840,1775,supersingular incidence at p=3
+677,yes,point below density bound,yes,338,338,CGPS minimum CM degree,3820,2388,supersingular incidence at p=3
+678,yes,point below density bound,yes,224,224,CGPS minimum CM degree,1965,1419,supersingular incidence at p=5
+679,yes,point below density bound,yes,192,192,CGPS minimum CM degree,3764,2352,supersingular incidence at p=3
+680,yes,point below density bound,yes,256,256,CGPS minimum CM degree,2765,1728,supersingular incidence at p=3
+681,yes,point below density bound,yes,452,452,CGPS minimum CM degree,3436,1909,supersingular incidence at p=5
+682,yes,point below density bound,yes,600,600,CGPS minimum CM degree,2880,1800,supersingular incidence at p=3
+683,yes,point below density bound,yes,682,682,CGPS minimum CM degree,3888,2430,supersingular incidence at p=3
+684,yes,point below density bound,yes,432,432,CGPS minimum CM degree,1994,1440,supersingular incidence at p=5
+685,yes,point below density bound,yes,272,272,CGPS minimum CM degree,3754,2346,supersingular incidence at p=3
+686,yes,point below density bound,yes,294,294,CGPS minimum CM degree,2882,1801,supersingular incidence at p=3
+687,yes,point below density bound,yes,152,152,CGPS minimum CM degree,3496,1943,supersingular incidence at p=5
+688,yes,point below density bound,yes,336,336,CGPS minimum CM degree,2957,1848,supersingular incidence at p=3
+689,yes,point below density bound,yes,312,312,CGPS minimum CM degree,3932,2457,supersingular incidence at p=3
+690,yes,point below density bound,yes,352,352,CGPS minimum CM degree,1521,1188,supersingular incidence at p=7
+691,yes,point below density bound,yes,230,230,CGPS minimum CM degree,3979,2487,supersingular incidence at p=3
+692,yes,point below density bound,yes,344,344,CGPS minimum CM degree,2993,1871,supersingular incidence at p=3
+693,yes,point below density bound,yes,720,720,CGPS minimum CM degree,3456,1920,supersingular incidence at p=5
+694,yes,point below density bound,yes,346,346,CGPS minimum CM degree,3011,1882,supersingular incidence at p=3
+695,yes,point below density bound,yes,552,552,CGPS minimum CM degree,3864,2415,supersingular incidence at p=3
+696,yes,point below density bound,yes,672,672,CGPS minimum CM degree,2068,1494,supersingular incidence at p=5
+697,yes,point below density bound,yes,320,320,CGPS minimum CM degree,4032,2520,supersingular incidence at p=3
+698,yes,point below density bound,yes,174,174,CGPS minimum CM degree,3045,1904,supersingular incidence at p=3
+699,yes,point below density bound,yes,464,464,CGPS minimum CM degree,3620,2011,supersingular incidence at p=5
+700,yes,point below density bound,yes,720,720,CGPS minimum CM degree,2880,1800,supersingular incidence at p=3
+701,yes,point below density bound,yes,350,350,CGPS minimum CM degree,4095,2560,supersingular incidence at p=3
+702,yes,point below density bound,yes,648,648,CGPS minimum CM degree,2094,1512,supersingular incidence at p=5
+703,yes,point below density bound,yes,216,216,CGPS minimum CM degree,4104,2565,supersingular incidence at p=3
+704,yes,point below density bound,yes,320,320,CGPS minimum CM degree,3072,1920,supersingular incidence at p=3
+705,yes,point below density bound,yes,368,368,CGPS minimum CM degree,3533,1963,supersingular incidence at p=2
+706,yes,point below density bound,yes,176,176,CGPS minimum CM degree,3116,1947,supersingular incidence at p=3
+707,yes,point below density bound,yes,600,600,CGPS minimum CM degree,4080,2550,supersingular incidence at p=3
+708,yes,point below density bound,yes,464,464,CGPS minimum CM degree,2142,1547,supersingular incidence at p=5
+709,yes,point below density bound,yes,236,236,CGPS minimum CM degree,4189,2619,supersingular incidence at p=3
+710,yes,point below density bound,yes,840,840,CGPS minimum CM degree,3024,1890,supersingular incidence at p=3
+711,yes,point below density bound,yes,468,468,CGPS minimum CM degree,3744,2080,supersingular incidence at p=5
+712,yes,point below density bound,yes,352,352,CGPS minimum CM degree,3168,1980,supersingular incidence at p=3
+713,yes,point below density bound,yes,660,660,CGPS minimum CM degree,4224,2640,supersingular incidence at p=3
+714,yes,point below density bound,yes,768,768,CGPS minimum CM degree,2127,1536,supersingular incidence at p=5
+715,yes,point below density bound,yes,960,960,CGPS minimum CM degree,4032,2520,supersingular incidence at p=3
+716,yes,point below density bound,yes,356,356,CGPS minimum CM degree,3204,2003,supersingular incidence at p=3
+717,yes,point below density bound,yes,952,952,CGPS minimum CM degree,3808,2116,supersingular incidence at p=5
+718,yes,point below density bound,yes,358,358,CGPS minimum CM degree,3222,2014,supersingular incidence at p=3
+719,yes,point below density bound,yes,718,718,CGPS minimum CM degree,4308,2693,supersingular incidence at p=3
+720,yes,point below density bound,undecided,1152,1152,CGPS minimum CM degree,1659,1296,supersingular incidence at p=7

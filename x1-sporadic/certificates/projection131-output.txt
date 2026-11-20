@@ -1,0 +1,36 @@
+Loading "fricke131-forms.m"
+degree, representative, Frobenius witness 8 <10, 0, -28> <1049, 1000, -52>
+degree, representative, Frobenius witness 8 <10, 0, -15> <263, 11, -3>
+degree, representative, Frobenius witness 8 <10, 0, 5> <263, 201, 3>
+degree, representative, Frobenius witness 8 <10, 0, 18> <1049, 950, -52>
+Fricke fixed 5
+degree, representative, Frobenius witness 9 <11, 0, -30> <2621, 1735, 80>
+degree, representative, Frobenius witness 9 <11, 0, -17> <263, 209, -20>
+degree, representative, Frobenius witness 9 <11, 0, 6> <263, 165, 20>
+degree, representative, Frobenius witness 9 <11, 0, 19> <2621, 2462, 80>
+additional degree-11 representatives [ -10, -9, -8, -7, -6, -5, -4, -3, -2, -1, 25, 26, 27, 28, 29 ]
+degrees [ 5, 8, 8, 8, 8, 9, 9, 9, 9 ]
+Loading "ten131.m"
+degree 10, class, Frobenius witness -30 <263, 215, 14>
+degree 10, class, Frobenius witness -27 <787, 212, 4>
+degree 10, class, Frobenius witness -26 <263, 24, 21>
+degree 10, class, Frobenius witness -25 <2621, 504, -5>
+degree 10, class, Frobenius witness -25 <263, 87, -7>
+degree 10, class, Frobenius witness -24 <263, 196, 9>
+degree 10, class, Frobenius witness -24 <787, 458, 4>
+degree 10, class, Frobenius witness -18 <263, 91, -23>
+degree 10, class, Frobenius witness -18 <263, 91, -23>
+degree 10, class, Frobenius witness -17 <263, 144, -4>
+degree 10, class, Frobenius witness -14 <263, 225, -4>
+degree 10, class, Frobenius witness 4 <263, 71, -4>
+degree 10, class, Frobenius witness 7 <263, 180, -4>
+degree 10, class, Frobenius witness 8 <263, 56, -21>
+degree 10, class, Frobenius witness 8 <263, 91, -23>
+degree 10, class, Frobenius witness 14 <263, 121, -9>
+degree 10, class, Frobenius witness 14 <787, 748, -4>
+degree 10, class, Frobenius witness 15 <2621, 2146, 5>
+degree 10, class, Frobenius witness 15 <263, 49, -7>
+degree 10, class, Frobenius witness 16 <263, 189, -24>
+degree 10, class, Frobenius witness 17 <787, 534, -18>
+degree 10, class, Frobenius witness 20 <263, 237, -14>
+degree 10 points with full relative degree 22

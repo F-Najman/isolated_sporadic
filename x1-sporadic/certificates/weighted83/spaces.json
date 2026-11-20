@@ -1,0 +1,16 @@
+{
+ "2": {
+  "multiplicity": 32,
+  "upper_bound_on_positive_part": {
+   "2": 820
+  },
+  "unsettled": []
+ },
+ "3": {
+  "multiplicity": 12,
+  "upper_bound_on_positive_part": {
+   "2": 10660
+  },
+  "unsettled": []
+ }
+}

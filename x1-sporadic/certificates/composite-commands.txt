@@ -1,0 +1,47 @@
+Run these commands from a writable directory, with CERT pointing to the directory containing these scripts. The Sage Python environment needs NumPy and SymPy.
+
+sage -python "$CERT/eisenjets.py" 90 30
+sage -python "$CERT/check90.py"
+magma -b "$CERT/ex90.m"
+
+sage -python "$CERT/eisenjets.py" 96 44
+sage -python "$CERT/checkcaps_exact.py" 96 20 2 5
+magma -b "$CERT/ex96fast.m"
+
+The generators write eis90.npz and eis96.npz to the working directory. The rank checks read them there. A rank assertion or lattice assertion signals failure. The modular-unit programs embed the cusp-valuation matrices published by Derickx and van Hoeij at https://www.math.fsu.edu/~hoeij/files/X1N/cusp_divisors.
+
+sage -python "$CERT/eisenjets.py" 108 52
+sage -python "$CERT/checklarge.py" 108 25 3 5
+magma -b "$CERT/ex108fast.m"
+
+sage -python "$CERT/eisenjets.py" 120 52
+sage -python "$CERT/checklarge.py" 120 28 3 6
+magma -b "$CERT/ex120fast.m"
+
+For N above 100 the embedded matrices come from https://www.math.fsu.edu/~hoeij/files/X1N/cusp_divisors_large .
+
+sage -python "$CERT/eisenjets.py" 94 60
+sage -python "$CERT/checklarge.py" 94 14 3 4
+sage -python "$CERT/spheredata94.py"
+g++ -std=c++17 -O3 "$CERT/sphere94.cpp" -o sphere94
+./sphere94 < sphere94.in
+
+All 50 orbit representatives are required. Optional command-line arguments give inclusive first and last representative numbers for verification in disjoint parts. Keep C++ assertions enabled. The file valuations94.txt is the level-94 matrix from the Derickx–van Hoeij cusp_divisors file linked above.
+
+sage -python "$CERT/eisenjets.py" 150 75
+sage -python "$CERT/checklarge.py" 150 35 4 8
+magma -b "$CERT/ex150fast.m"
+
+A partial level-180 result is the absence of a nonconstant rational modular unit of degree at most 117. This uses the same C++ executable.
+
+sage -python "$CERT/spheredata180.py"
+./sphere94 < sphere180.in
+
+All 326 orbit representatives are required for this partial result.
+
+For the additional restricted cusp-fibre result at level 180 run the following. The generator uses a reproducible compression of the generating forms to limit memory use.
+
+sage -python "$CERT/eisenlarge.py" 180 117
+sage -python "$CERT/partial180.py" 7 81 2
+
+This excludes all divisors with individual excess at most eight, as well as those with at most two cusps of individual excess greater than seven. Cases outside these two families remain.

@@ -1,0 +1,12 @@
+load "base_binary25.m";
+S0:=x^5+x^4+x+1+(x^2+1)*y;
+eta:=(u/S0)*Differential(x);
+assert IsEffective(Divisor(eta));
+assert &and[Valuation(Divisor(Differential(x)),P) eq 0:P in cusps];
+Cl,rep,dl:=ClassGroup(K); T:=dl(c0-ci); G1:=dl(classdiv(0,0,1));
+assert Invariants(Cl) eq [2,4290,0];
+extra:=[Q:Q in Places(K,1)|Q notin cusps];assert #extra eq 1;
+Q:=extra[1]; assert Evaluate(jfun,Q) eq 0;
+assert &and[h*T+n*G1 ne 13*dl(Q-c0):h in [-26,-13,0,13,26],n in [0..2]];
+print "regular trace differential at two, empty shifted classes excluded";
+quit;

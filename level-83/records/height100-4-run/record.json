@@ -1,0 +1,10 @@
+[
+  {
+    "primes": "5,7,11,13,17,19,23,29",
+    "tested": 2,
+    "survivors": 0,
+    "checksums": [
+      "78c6c3357f51e91016cdf129ef5c2038fc4287f9f5c7019aae57e0b548dfc595"
+    ]
+  }
+]

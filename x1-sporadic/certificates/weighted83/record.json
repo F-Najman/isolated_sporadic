@@ -1,0 +1,22 @@
+{
+ "counts": {
+  "positive": 433002,
+  "all_cuspidal": 2202
+ },
+ "units_sha256": "b32dc86830db47ae43f92d99860b93dc5a1842ae682b77df18e167862cba4d85",
+ "fibres_sha256": "732f0b29fd8d68c3c45127fca2e97f2ddb081a52e15347984b5a3fd907329260",
+ "stages": [
+  {
+   "tested": 433002,
+   "remaining": 137,
+   "sha256": "cf342e1e39edefabb1367386a5fa01ba1b67068c59d78e8d16a40a71a43aea48"
+  },
+  {
+   "tested": 137,
+   "remaining": 0,
+   "sha256": "d7b52a6780635d75c3dde0142f50b762bae6318b1604ae7ac96080ab00f93229"
+  }
+ ],
+ "minimum_positive_degree": 57,
+ "remaining": []
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "primes": "5,7,11,13,17,19,23,29",
+    "tested": 60446,
+    "survivors": 8,
+    "checksums": [
+      "8c15c1cd7afa58b04926d470d660e4605b9759ba6cb80dcf7137c1642c0c7529",
+      "9bab4d71c0a1e6d23bd2906391ef184b5f42ee867aef6cb363b892baf7fb84b7",
+      "a45a603c36161e76b3271b75507d1af604621585f0d14e5b03355b6b83b6834f",
+      "cf830230bcf8587bac3ba794345b23fa13a14c701b31f61a5cfb396a98e526a2",
+      "afeb280b20b3259dbe07959ada8e1f62e9995a236df8ab78a1e503dcb9bff774",
+      "d1f79a8a43a2a01363764eaafa89ac89ea344889bcac7a5945bbbf62107ba2de"
+    ]
+  },
+  {
+    "primes": "31,37,41,43,47,53,59,61",
+    "tested": 8,
+    "survivors": 0,
+    "checksums": [
+      "328d2c1cdd6edce5720f9c8590964fa6d9a83cf6b91da5e5c77917f1a750054e"
+    ]
+  }
+]

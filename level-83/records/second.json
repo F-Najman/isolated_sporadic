@@ -1,0 +1,28 @@
+{
+  "unit_degree": 97,
+  "contacts": {
+    "12": 19,
+    "31": 21
+  },
+  "effective_degree": 177,
+  "jet_rank": 176,
+  "upper_bound": 2,
+  "irreducible_mod": [
+    11,
+    29
+  ],
+  "field_splitting": [
+    2,
+    [
+      [
+        9,
+        48
+      ],
+      [
+        9,
+        15,
+        33
+      ]
+    ]
+  ]
+}

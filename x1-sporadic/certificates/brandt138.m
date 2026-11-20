@@ -1,0 +1,20 @@
+// The supersingular (Gamma_0(69), p=2) module in the ideal-class basis.
+SetQuitOnError(true);
+Q := Rationals();
+M := BrandtModule(2, 69);
+assert Dimension(M) eq 8;
+T := ChangeRing(HeckeOperator(M, 5), Q);
+assert T eq Transpose(T);
+assert &and[ &+Eltseq(r) eq 6 : r in Rows(T) ];
+W := Kernel(T+2*IdentityMatrix(Q, 8));
+assert Dimension(W) eq 1;
+v := Eltseq(Basis(W)[1]);
+a := [x : x in v | x ne 0][1];
+v := [x/a : x in v];
+assert Sort(v) eq [-1,-1,0,0,0,0,1,1];
+degrees := [22*#[x : x in v | x eq t] : t in [-1,0,1]];
+assert degrees eq [44,88,44];
+print "T_5 on the eight supersingular classes:", T;
+print "Eigenvector for a_5 = -2:", v;
+print "Multiplicity of each edge coordinate on X_1(138):", degrees;
+print "Lower bound for an elliptic translate:", 176-Max(degrees);

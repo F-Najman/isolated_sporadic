@@ -1,0 +1,20 @@
+[
+  {
+    "primes": "5,7,11,13,17,19,23,29",
+    "tested": 34422,
+    "survivors": 4,
+    "checksums": [
+      "fdeeec1281d162de2a2418459086defd5bb0b85e7c18e102de9e3482deb1707d",
+      "56bab4425322c7d49caa49e1952e73041495c680e140f75e1177585b6c95ebb0",
+      "ba6beaccb5ed167e9139cc6aaa313da97f3accce8a93ecfbd8c44054ea2e20a6"
+    ]
+  },
+  {
+    "primes": "31,37,41,43,47,53,59,61",
+    "tested": 4,
+    "survivors": 0,
+    "checksums": [
+      "c8bda40444c3ed85d7744f456890322258f8ab7a05d8e01803caa4a00c003cfe"
+    ]
+  }
+]
